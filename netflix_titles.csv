@@ -1,0 +1,11 @@
+show_id,type,title,director,country,release_year,rating
+s1,Movie,Red Notice,Rawson Marshall Thurber,United States,2021,PG-13
+s2,TV Show,Stranger Things,Duffer Brothers,United States,2016,TV-14
+s3,Movie,Extraction,Sam Hargrave,United States,2020,R
+s4,TV Show,Dark,Baran bo Odar,Germany,2017,TV-MA
+s5,Movie,Bird Box,Susanne Bier,United States,2018,R
+s6,TV Show,La Casa de Papel,Alex Pina,Spain,2017,TV-MA
+s7,Movie,The Irishman,Martin Scorsese,United States,2019,R
+s8,TV Show,Wednesday,Tim Burton,United States,2022,TV-14
+s9,Movie,Roma,Alfonso Cuaron,Mexico,2018,R
+s10,TV Show,Lupin,George Kay,France,2021,TV-MA
